@@ -9,7 +9,8 @@ drwx------+   9 tlberglund  staff   306 Sep 26 10:19 Muzak
 drwx------   53 tlberglund  staff  1802 Jul 26 08:32 New Personal Documents
 drwx------+  51 tlberglund  staff  1734 Oct 10 17:27 Pictures
 drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 15:13 Public
-drwxr-xr-x   56 tlberglund  staff  1904 Sep 22 05:43 Purchased Software
+drwxr-xr-x   56 tlberglund  staff  1904 Sep 22 05:43 Nearly Purchased Software
+drwxr-xr-x   56 tlberglund  staff  1232 Sep 20 08:48 Pirated Software
 drwxr-xr-x    9 tlberglund  staff   306 Oct 27 09:51 Tools
 drwxr-xr-x  114 tlberglund  staff  3876 Oct 30 09:59 code
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10 11:36 eclipse-workspace
